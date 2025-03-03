@@ -1,0 +1,15 @@
+This dataset contains information about different customers and their purchases. It includes the following columns:
+
+1. item_id: A unique identifier for each item purchased.
+2. price: The price of the item purchased.
+3. age: The age of the customer who made the purchase.
+4. customer_name: The name of the customer.
+5. customer_email: The email address of the customer.
+6. Age_Group: The age group of the customer (e.g., 18-25, 26-35, etc.).
+7. Customer_Type: Describes whether the customer is a "high spender," "medium spender," or "low spender."
+8. Price_Range: Categorizes the price of the item into different ranges like "high," "low," or "medium."
+9. Customer_Status: Indicates whether the customer is "Active" or "Inactive."
+
+There are some missing values in the dataset where data for certain fields (such as price, item_id, or age) is not provided for some records. and price column contains some outliers also.
+
+"cleaned data.csv" is the dataset after applying the cleaning operations to perfoem the EDA.
