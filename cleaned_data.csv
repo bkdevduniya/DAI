@@ -2,7 +2,7 @@ item_id,price,age,customer_name,customer_email,Age_Group,Customer_Type,Price_Ran
 131.0,813.6480131465942,61.0,JoshGreenholt,Alvera.Koch29@yahoo.com,56-65,high spender,high,Active
 473.0,16.472743737976998,24.0,Dr.AlvinKiehn,Llewellyn.Nader5@yahoo.com,18-25,low spender,low,Active
 789.0,76.0,44.0,EdmundHudson,Andre_DuBuque69@hotmail.com,36-45,low spender,low,inactive
-8.0,0.0,7.0,KristineHowePhD,Sid_Lubowitz@yahoo.com,66+,,,inactive
+8.0,0.0,7.0,KristineHowePhD,Sid_Lubowitz@yahoo.com,66+,low spender,low,inactive
 99.0,7.0,59.0,EllaHarvey,Griffin_Pfeffer74@gmail.com,56-65,low spender,low,inactive
 176.0,102.00595618691295,70.0,Mr.JulioCarroll,Kari19@yahoo.com,66+,medium spender,medium,inactive
 657.0,20.954852695576847,41.0,ToniMorissette,Jermaine91@hotmail.com,36-45,low spender,low,inactive
@@ -54,7 +54,7 @@ item_id,price,age,customer_name,customer_email,Age_Group,Customer_Type,Price_Ran
 119.0,2.0,36.0,MaryJacobi,Charlotte63@gmail.com,36-45,low spender,low,Active
 670.0,321.3535536918789,18.0,TerriFerry,Marge46@gmail.com,18-25,medium spender,medium,inactive
 745.0,573.6097702663392,22.0,Dr.TimothyGusikowski,Adrianna_Hirthe@yahoo.com,18-25,high spender,high,inactive
-786.0,-100.0,37.0,ClintonKub,Demarcus_Klocko85@gmail.com,36-45,,,inactive
+786.0,-100.0,37.0,ClintonKub,Demarcus_Klocko85@gmail.com,36-45,low spender,low,inactive
 945.0,56.65605068439618,60.0,AgnesLangosh,Morgan.Flatley30@yahoo.com,56-65,low spender,low,inactive
 883.0,186.0,35.0,Mrs.RickeyReinger,Davida92@gmail.com,26-35,medium spender,medium,Active
 63.0,854.5317625221027,27.0,MarilynDach,Cornelius63@gmail.com,26-35,high spender,high,inactive
@@ -64,9 +64,3 @@ item_id,price,age,customer_name,customer_email,Age_Group,Customer_Type,Price_Ran
 220.0,813.4041950999876,40.0,SaraHarris,Eugenia72@yahoo.com,36-45,high spender,high,Active
 560.0,905.214314573056,31.0,PaulaBergstrom,Oren98@yahoo.com,26-35,high spender,high,Active
 1000.0,1000.0,30.0,Mr.FrancisBauch,Briana_Kunze89@gmail.com,26-35,high spender,high,Active
-300.0,-800.0,30.0,Mr.FrancisBauch,Briana_Kunze89@gmail.com,26-35,,,Active
-301.0,1550.0,30.0,Mr.FrancisBauch,Briana_Kunze89@gmail.com,26-35,high spender,high,Active
-,204.12896830952496,32.0,,Colin_Marks@gmail.com,26-35,medium spender,medium,Active
-220.0,813.4041950999876,,SaraHarris,Eugenia72@yahoo.com,36-45,high spender,high,Active
-,204.12896830952496,,,Colin_Marks@gmail.com,26-35,medium spender,medium,Active
-,813.4041950999876,,SaraHarris,Eugenia72@yahoo.com,36-45,high spender,high,Active
