@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-# perfoeming the univariate analysis on price and coustumer age columns
+# perfoeming the bivariate analysis on price and coustumer age columns
 
 df=pd.read_csv('cleaned_data.csv')
 
