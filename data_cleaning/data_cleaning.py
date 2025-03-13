@@ -94,3 +94,6 @@ for i in df.index:
 # Show the modified dataframe
 print("Data frame after standardization:\n", df)
 
+# writing the clean data to anather file for performing EDA
+df.to_csv('cleaned_data.csv',index=False)
+
